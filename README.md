@@ -48,6 +48,7 @@ Landing Zone data query results
 
 - [customer_landing_to_trusted.py](scripts/customer_landing_to_trusted.py)
 - [accelerometer_landing_to_trusted_zone.py](scripts/accelerometer_landing_to_trusted_zone.py)
+- [step_trainer_landing_to_trusted.py](scripts/step_trainer_landing_to_trusted.py)
 
 **Athena**:
 Trusted Zone Query results:
@@ -61,3 +62,4 @@ Trusted Zone Query results:
 **Glue job scripts**:
 
 - [customer_trusted_to_curated.py](scripts/customer_trusted_to_curated.py_)
+- [trainer_trusted_to_curated.py](scripts/trainer_trusted_to_curated.py)
